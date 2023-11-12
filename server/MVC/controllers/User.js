@@ -47,7 +47,7 @@ const editStorageUnit = async (req, res) => {
 }
 //===========================================================
 const getEmojis = async (req, res) => {
-    let data = await serviceEmojis.getEmojis();
+    let data = await serviceEmojis.getEmojis();//get all emojies list
     res.send(data);
    
 }
