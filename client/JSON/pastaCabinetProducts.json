@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Ravioli",
+            "weight": "30/30 kg",
+            "brand": "Il Gusto",
+            "expires": "12.03.23",
+            "delivered": "07.03.23"
+        },
+        {
+            "id": 2,
+            "name": "Penne Rigate",
+            "weight": "60/60 kg",
+            "brand": "La Famiglia",
+            "expires": "22.03.23",
+            "delivered": "07.03.23"
+        },
+        {
+            "id": 3,
+            "name": "Fettuccine",
+            "weight": "50/50 kg",
+            "brand": "Bella Nonna",
+            "expires": "10.03.23",
+            "delivered": "05.03.23"
+        }
+    ]
+}

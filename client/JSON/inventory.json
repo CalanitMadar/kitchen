@@ -1,0 +1,53 @@
+{"data":
+[
+        {
+        "id": "1",
+        "title1": "Seafood Freezer",
+        "title2": "Low Stock",
+        "title3": "Low on 2/3 product types",
+        "inventoryLevelPercent": "30",
+        "emoji":"🦐",
+        "unit": "cold",
+        "temperature": "-18° C"
+    },
+    {
+        "id": "2",
+        "title1": "Meat Freezer",
+        "title2": "Limited stock",
+        "title3": "Low on 1/3 product types",
+        "inventoryLevelPercent": "50",
+        "emoji": "🥩",
+        "unit": "cold",
+        "temperature": "-18° C"
+    },
+    {
+        "id": "3",
+        "title1": "Vegetable Fridge",
+        "title2": "Sufficient Stock",
+        "title3": "All product types stocked",
+        "inventoryLevelPercent": "75",
+        "emoji": "🥬",
+        "unit": "cold",
+        "temperature": "-18° C"
+    },
+    {
+        "id": "4",
+        "title1": "Chicken Fridge",
+        "title2": "Limited stock",
+        "title3": "Low on 1/3 product types",
+        "inventoryLevelPercent": "55",
+        "emoji": "🍗",
+        "unit": "cold",
+        "temperature": "20° C"
+    },
+    {
+        "id": "5",
+        "title1": "Pasta Cabinet",
+        "title2": "Sufficient Stock",
+        "title3": "All product types stocked",
+        "inventoryLevelPercent": "100",
+        "emoji": "🍝",
+        "unit": "pantry",
+        "temperature": "20° C"
+    }
+]}

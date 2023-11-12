@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "chicken",
+            "weight": "27/30 kg",
+            "brand": "Sunfish",
+            "expires": "12.03.23",
+            "delivered": "07.03.23"
+        },
+        {
+            "id": 2,
+            "name": "duck",
+            "weight": "30/60 kg",
+            "brand": "Sea Bites",
+            "expires": "22.03.23",
+            "delivered": "07.03.23"
+        },
+        {
+            "id": 3,
+            "name": "wings",
+            "weight": "12/50 kg",
+            "brand": "Ocean Delight",
+            "expires": "10.03.23",
+            "delivered": "05.03.23"
+        }
+    ]
+}
